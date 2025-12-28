@@ -3,17 +3,13 @@
 import { motion } from 'framer-motion';
 import { ArrowLeft, ExternalLink, CheckCircle } from 'lucide-react';
 import Link from 'next/link';
-import { notFound } from 'next/navigation';
+import { notFound, useParams } from 'next/navigation';
 import projectsData from '@/data/projects.json';
 
-interface ProjectPageProps {
-  params: {
-    slug: string;
-  };
-}
-
-export default function ProjectPage({ params }: ProjectPageProps) {
-  const project = projectsData.find((p) => p.id === params.slug);
+export default function ProjectPage() {
+  const params = useParams();
+  const slug = params.slug as string;
+  const project = projectsData.find((p) => p.id === slug);
 
   if (!project) {
     notFound();
@@ -206,11 +202,4 @@ export default function ProjectPage({ params }: ProjectPageProps) {
       </section>
     </div>
   );
-}
-
-// Generate static params for all projects
-export function generateStaticParams() {
-  return projectsData.map((project) => ({
-    slug: project.id,
-  }));
 }

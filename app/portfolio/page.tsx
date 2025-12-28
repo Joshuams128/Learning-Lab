@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, Suspense } from 'react';
 import { motion } from 'framer-motion';
 import { useSearchParams } from 'next/navigation';
 import ProjectCard from '@/components/ProjectCard';
@@ -8,7 +8,7 @@ import projectsData from '@/data/projects.json';
 
 type FilterType = 'all' | 'sasha' | 'joshua';
 
-export default function PortfolioPage() {
+function PortfolioContent() {
   const searchParams = useSearchParams();
   const filterParam = searchParams.get('filter') as FilterType | null;
   const [activeFilter, setActiveFilter] = useState<FilterType>(filterParam || 'all');
@@ -129,5 +129,13 @@ export default function PortfolioPage() {
         </div>
       </section>
     </div>
+  );
+}
+
+export default function PortfolioPage() {
+  return (
+    <Suspense fallback={<div className="min-h-screen bg-gray-50 flex items-center justify-center"><div className="text-xl text-gray-600">Loading...</div></div>}>
+      <PortfolioContent />
+    </Suspense>
   );
 }
