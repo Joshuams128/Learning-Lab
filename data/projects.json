@@ -1,0 +1,173 @@
+[
+  {
+    "id": "elearning-healthcare-onboarding",
+    "title": "Healthcare Onboarding eLearning Module",
+    "owner": "sasha",
+    "category": "eLearning Development",
+    "description": "Interactive AODA-compliant onboarding course for healthcare workers at Oak Valley Health, featuring scenario-based learning and gamification elements.",
+    "image": "/images/projects/healthcare-onboarding.jpg",
+    "tags": ["Articulate Storyline", "AODA Compliance", "Healthcare", "Gamification"],
+    "tools": ["Articulate Storyline 360", "Adobe Illustrator", "Canva"],
+    "overview": "Developed a comprehensive onboarding program for new healthcare staff at Markham Stouffville Hospital and Uxbridge Hospital. The course incorporates interactive scenarios, knowledge checks, and gamified elements to engage learners while ensuring compliance with accessibility standards.",
+    "keyTasks": [
+      "Conducted needs assessment with hospital stakeholders and SMEs",
+      "Designed interactive learning modules using adult learning principles",
+      "Developed scenario-based assessments for critical healthcare procedures",
+      "Ensured AODA compliance throughout all course materials",
+      "Implemented gamification mechanics to increase engagement"
+    ],
+    "outcomes": [
+      "95% learner satisfaction rate",
+      "Reduced onboarding time by 30%",
+      "100% AODA compliance certification"
+    ],
+    "featured": true
+  },
+  {
+    "id": "safety-training-animation",
+    "title": "Workplace Safety Training with Animation",
+    "owner": "sasha",
+    "category": "eLearning Development",
+    "description": "Animated workplace safety training module for long-term care facilities, making complex safety procedures engaging and memorable.",
+    "image": "/images/projects/safety-training.jpg",
+    "tags": ["Animation", "Safety Training", "Vyond", "Interactive"],
+    "tools": ["Articulate Storyline 360", "Vyond", "Adobe Audition"],
+    "overview": "Created an engaging safety training course for Extendicare long-term care facilities. Used character animation and interactive scenarios to teach critical safety protocols in an accessible and memorable way.",
+    "keyTasks": [
+      "Scripted and storyboarded animated safety scenarios",
+      "Created custom characters and animations using Vyond",
+      "Developed branching scenarios for decision-making practice",
+      "Integrated audio narration and closed captions",
+      "Built interactive knowledge checks and assessments"
+    ],
+    "outcomes": [
+      "87% improvement in post-training assessment scores",
+      "Reduced workplace safety incidents by 42%",
+      "Deployed across 50+ facilities"
+    ],
+    "featured": true
+  },
+  {
+    "id": "faculty-development-course",
+    "title": "Faculty Development: Inclusive Teaching Practices",
+    "owner": "sasha",
+    "category": "Instructional Design",
+    "description": "Self-paced professional development course for Durham College faculty on inclusive and accessible teaching methodologies.",
+    "image": "/images/projects/faculty-development.jpg",
+    "tags": ["Higher Education", "Accessibility", "Professional Development"],
+    "tools": ["Articulate Rise 360", "Camtasia", "Microsoft Forms"],
+    "overview": "Designed and developed a comprehensive professional development course for college instructors focusing on inclusive teaching practices, universal design for learning (UDL), and accessibility in higher education.",
+    "keyTasks": [
+      "Consulted with faculty and accessibility services team",
+      "Designed modular, self-paced learning pathway",
+      "Created video demonstrations of inclusive teaching strategies",
+      "Developed practical implementation guides and templates",
+      "Built reflection activities and peer collaboration forums"
+    ],
+    "outcomes": [
+      "Trained 200+ faculty members in first semester",
+      "98% completion rate",
+      "Increased adoption of UDL principles by 65%"
+    ],
+    "featured": false
+  },
+  {
+    "id": "contractor-website-nextjs",
+    "title": "Modern Construction Company Website",
+    "owner": "joshua",
+    "category": "Web Development",
+    "description": "Headless CMS website for a construction contractor with project portfolio showcase, client testimonials, and contact forms.",
+    "image": "/images/projects/contractor-website.jpg",
+    "tags": ["Next.js", "Sanity CMS", "Tailwind CSS", "Responsive Design"],
+    "tools": ["Next.js", "Sanity CMS", "Tailwind CSS", "Vercel", "TypeScript"],
+    "overview": "Built a modern, fully responsive website for a commercial construction company. Integrated Sanity CMS to allow the client to easily update projects, testimonials, and service offerings without developer intervention.",
+    "keyTasks": [
+      "Designed custom UI with Tailwind CSS",
+      "Integrated Sanity CMS for content management",
+      "Created dynamic project portfolio with filtering",
+      "Implemented contact forms with email notifications",
+      "Optimized for performance and SEO",
+      "Deployed to Vercel with automatic deployments"
+    ],
+    "outcomes": [
+      "100/100 Lighthouse performance score",
+      "50% increase in client inquiries",
+      "Client able to manage all content independently"
+    ],
+    "featured": true
+  },
+  {
+    "id": "church-website-interactive",
+    "title": "Church Community Website with Event Management",
+    "owner": "joshua",
+    "category": "Web Development",
+    "description": "Interactive community website with event calendar, sermon archive, online giving integration, and member portal.",
+    "image": "/images/projects/church-website.jpg",
+    "tags": ["React", "Next.js", "Sanity CMS", "Event Management"],
+    "tools": ["Next.js", "React", "Sanity CMS", "Stripe", "Tailwind CSS"],
+    "overview": "Developed a comprehensive website for a local church community featuring event registration, sermon streaming, online giving, and a members-only resource portal.",
+    "keyTasks": [
+      "Built event calendar with registration and RSVP functionality",
+      "Integrated Stripe for online donations",
+      "Created sermon archive with audio/video playback",
+      "Developed member authentication and resource portal",
+      "Implemented mobile-first responsive design",
+      "Set up analytics and engagement tracking"
+    ],
+    "outcomes": [
+      "300+ active weekly users",
+      "40% increase in event attendance",
+      "Online giving increased by 200%"
+    ],
+    "featured": true
+  },
+  {
+    "id": "ecommerce-storefront",
+    "title": "Custom E-commerce Storefront",
+    "owner": "joshua",
+    "category": "Web Development",
+    "description": "Shopify-integrated e-commerce website with custom product filters, wishlist functionality, and smooth animations.",
+    "image": "/images/projects/ecommerce-store.jpg",
+    "tags": ["E-commerce", "Shopify", "GSAP", "JavaScript"],
+    "tools": ["Next.js", "Shopify API", "GSAP", "Tailwind CSS", "Framer Motion"],
+    "overview": "Created a high-performance e-commerce storefront with Shopify backend integration, featuring advanced product filtering, smooth scroll animations, and an intuitive shopping experience.",
+    "keyTasks": [
+      "Integrated Shopify Storefront API",
+      "Built custom product filtering and search",
+      "Implemented cart and checkout flow",
+      "Added GSAP animations for enhanced UX",
+      "Optimized images and lazy loading",
+      "Implemented wishlist and product comparison features"
+    ],
+    "outcomes": [
+      "35% increase in conversion rate",
+      "Average page load time under 1.5 seconds",
+      "Mobile sales increased by 60%"
+    ],
+    "featured": false
+  },
+  {
+    "id": "portfolio-with-threejs",
+    "title": "Interactive 3D Portfolio Website",
+    "owner": "joshua",
+    "category": "Web Design",
+    "description": "Immersive portfolio website featuring Three.js 3D elements, particle effects, and smooth scroll animations.",
+    "image": "/images/projects/3d-portfolio.jpg",
+    "tags": ["Three.js", "GSAP", "3D Graphics", "Animation"],
+    "tools": ["React", "Three.js", "GSAP", "Blender", "Vite"],
+    "overview": "Designed and developed an interactive portfolio website showcasing web development and 3D design skills through immersive Three.js experiences and smooth GSAP animations.",
+    "keyTasks": [
+      "Created 3D models and scenes using Three.js",
+      "Implemented scroll-based animation sequences with GSAP",
+      "Built particle systems and shader effects",
+      "Optimized 3D performance for mobile devices",
+      "Designed responsive UI that adapts to 3D content"
+    ],
+    "outcomes": [
+      "Featured on Awwwards.com",
+      "85% increase in client inquiries",
+      "Averaged 4+ minutes time on site"
+    ],
+    "featured": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "sasha",
+    "name": "Sasha",
+    "title": "Instructional Designer & eLearning Developer",
+    "role": "Instructional Designer",
+    "email": "sasha@thelearninglab.com",
+    "tagline": "Making learning fun and effective through animation, gamification, and scenario-based design",
+    "image": "/images/team/sasha.jpg",
+    "bio": "Sasha is an Instructional Designer & eLearning Developer with 7+ years of experience leading the design and development of interactive, learner-centered, and AODA-compliant eLearning content. She is a Certified Project Management Professional (PMP) holder, with a Bachelor of Science in Population Health & Public Policy, Master of Education, and an eLearning Developer certificate.\n\nSasha specializes in the usage of animation, gamification, and scenario-based learning to make learning not only fun but effective! In every eLearning project, Sasha utilizes the strategic application of adult education and instructional design principles, learning strategies, thorough needs assessment, SME consultation, and project management.\n\nShe currently works as a Digital Technology Learning Specialist at Oak Valley Health where she designs and develops eLearning courses for healthcare workers at Markham Stouffville Hospital and Uxbridge Hospital. She also previously held the position of Instructional Design Consultant at Durham College and the position of eLearning Specialist at Extendicare.",
+    "linkedin": "https://linkedin.com/in/sasha",
+    "portfolio": "/portfolio?filter=sasha"
+  },
+  {
+    "id": "joshua",
+    "name": "Joshua",
+    "title": "Front-end Developer & Web Designer",
+    "role": "Front-end Developer",
+    "email": "joshua@thelearninglab.com",
+    "tagline": "Building modern, responsive websites with clean design and seamless functionality",
+    "image": "/images/team/joshua.jpg",
+    "bio": "Joshua is a Front-end Developer & Web Designer with a focus on building modern, responsive websites that combine clean design with seamless functionality. He holds an Ontario College Diploma in Interactive Media Design with a specialization in Web Development from Durham College.\n\nJoshua specializes in the creation of high-quality multimedia experiences, incorporating animation, motion design, and interactive elements to elevate user engagement. Through the strategic use of coding, he brings gamification and dynamic interactivity to web projects—particularly utilizing JavaScript, React.js, GSAP, Three.js, and CSS3 animations.\n\nHe currently works as a Freelance Front-end Developer where he builds custom headless CMS websites using Next.js, Tailwind CSS, and Sanity CMS, empowering clients to manage their own content through intuitive interfaces. His client work spans industries including contractors, churches, e-commerce, and small businesses.",
+    "linkedin": "https://linkedin.com/in/joshua",
+    "portfolio": "/portfolio?filter=joshua"
+  }
+]

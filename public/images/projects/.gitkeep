@@ -1,0 +1,12 @@
+Please add project screenshots to this directory.
+
+The image names should match the project IDs in /data/projects.json:
+- elearning-healthcare-onboarding.jpg
+- safety-training-animation.jpg
+- faculty-development-course.jpg
+- contractor-website-nextjs.jpg
+- church-website-interactive.jpg
+- ecommerce-storefront.jpg
+- portfolio-with-threejs.jpg
+
+These images will be displayed in the portfolio grid and individual project pages.

@@ -1,0 +1,98 @@
+[
+  {
+    "category": "Instructional Design",
+    "icon": "BookOpen",
+    "skills": [
+      "Adult Learning Principles",
+      "ADDIE & SAM Models",
+      "Needs Assessment",
+      "Learning Objectives",
+      "Assessment Design",
+      "Curriculum Development"
+    ]
+  },
+  {
+    "category": "eLearning Development",
+    "icon": "Monitor",
+    "skills": [
+      "Articulate Storyline 360",
+      "Articulate Rise 360",
+      "Adobe Captivate",
+      "Camtasia",
+      "SCORM/xAPI",
+      "LMS Integration"
+    ]
+  },
+  {
+    "category": "Multimedia & Animation",
+    "icon": "Video",
+    "skills": [
+      "Vyond Animation",
+      "Adobe Creative Suite",
+      "Video Production",
+      "Audio Editing",
+      "Graphic Design",
+      "Interactive Media"
+    ]
+  },
+  {
+    "category": "Web Development",
+    "icon": "Code",
+    "skills": [
+      "Next.js & React",
+      "TypeScript",
+      "Tailwind CSS",
+      "Responsive Design",
+      "Headless CMS",
+      "API Integration"
+    ]
+  },
+  {
+    "category": "Animation & Interactivity",
+    "icon": "Sparkles",
+    "skills": [
+      "GSAP",
+      "Framer Motion",
+      "Three.js",
+      "CSS3 Animations",
+      "JavaScript",
+      "Motion Design"
+    ]
+  },
+  {
+    "category": "Accessibility & Compliance",
+    "icon": "Shield",
+    "skills": [
+      "AODA Compliance",
+      "WCAG 2.1 Standards",
+      "Screen Reader Testing",
+      "Inclusive Design",
+      "Universal Design for Learning",
+      "Accessibility Audits"
+    ]
+  },
+  {
+    "category": "Project Management",
+    "icon": "CheckCircle",
+    "skills": [
+      "PMP Certified",
+      "Agile/Scrum",
+      "Stakeholder Management",
+      "Timeline Planning",
+      "Resource Allocation",
+      "Quality Assurance"
+    ]
+  },
+  {
+    "category": "Gamification & Engagement",
+    "icon": "Trophy",
+    "skills": [
+      "Game Mechanics",
+      "Scenario-Based Learning",
+      "Branching Simulations",
+      "Rewards Systems",
+      "Interactive Storytelling",
+      "User Engagement Strategy"
+    ]
+  }
+]
